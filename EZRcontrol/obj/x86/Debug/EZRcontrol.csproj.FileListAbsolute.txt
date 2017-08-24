@@ -1,0 +1,9 @@
+D:\PGSource\EZRcontrol\EZRcontrol\bin\Debug\EZRcontrol.exe
+D:\PGSource\EZRcontrol\EZRcontrol\bin\Debug\EZRcontrol.pdb
+D:\PGSource\EZRcontrol\EZRcontrol\obj\x86\Debug\EZRcontrol.MainForm.resources
+D:\PGSource\EZRcontrol\EZRcontrol\obj\x86\Debug\EZRcontrol.RClinetForm.resources
+D:\PGSource\EZRcontrol\EZRcontrol\obj\x86\Debug\EZRcontrol.Properties.Resources.resources
+D:\PGSource\EZRcontrol\EZRcontrol\obj\x86\Debug\EZRcontrol.VcursorForm.resources
+D:\PGSource\EZRcontrol\EZRcontrol\obj\x86\Debug\EZRcontrol.csproj.GenerateResource.Cache
+D:\PGSource\EZRcontrol\EZRcontrol\obj\x86\Debug\EZRcontrol.exe
+D:\PGSource\EZRcontrol\EZRcontrol\obj\x86\Debug\EZRcontrol.pdb
